@@ -9,7 +9,7 @@ main:
     url: /tags/
   - title: "Pages"
     url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "Guide Docs"
+    url: https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_docs
   - title: "External Link"
     url: https://google.com
